@@ -22,4 +22,4 @@ Prompt: "I need something to cut this onion."
 
 ### Future Work
 * Remove ArUco markers and use other methods for object recognition (like YOLO) and pose estimation (using pasive/active stereo, active depth sensor, deep learning for depth estimation).
-* Play around with decision-making frameworks like MDPs and POMDPs along with LLMs
+* Play around with decision-making frameworks like MDPs and POMDPs along with LLMs.
