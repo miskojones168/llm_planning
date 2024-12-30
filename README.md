@@ -9,12 +9,15 @@ A set of ArUco markers are used to represent objects. The mounted camera is cali
 ### Demo
 
 Prompt: "I am hungry. Can you give me something to eat?"
+
 ![eat gif](eat.gif "Demo")
 
 Prompt: "Clean the table."
+
 ![trash gif](trash.gif "Demo")
 
 Prompt: "I need something to cut this onion."
+
 ![knife gif](knife.gif "Demo")
 
 ### Future Work
