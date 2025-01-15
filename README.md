@@ -23,7 +23,7 @@ Prompt: "I am hungry. Can you give me something to eat?"
 
 ![eat gif](eat.gif "Demo")
 
-Prompt: "Clean the table."
+Prompt: "Clean the table." (Arm picks up cube labeled as ```trash``` and place it in the garbage bin)
 
 ![trash gif](trash.gif "Demo")
 
