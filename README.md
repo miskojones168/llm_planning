@@ -19,15 +19,15 @@ Implemented actions so far,
 
 ### Demo
 
-Prompt: "I am hungry. Can you give me something to eat?"
+Prompt: "I am hungry. Can you give me something to eat?" (Arm picks up the cube labeled as ```apple``` and hands it to the user)
 
 ![eat gif](eat.gif "Demo")
 
-Prompt: "Clean the table." (Arm picks up cube labeled as ```trash``` and place it in the garbage bin)
+Prompt: "Clean the table." (Arm picks up the cube labeled as ```trash``` and place it in the garbage bin)
 
 ![trash gif](trash.gif "Demo")
 
-Prompt: "I need something to cut this onion."
+Prompt: "I need something to cut this onion." (Arm picks up the cube labeled as ```knife``` and hands it to the user)
 
 ![knife gif](knife.gif "Demo")
 
